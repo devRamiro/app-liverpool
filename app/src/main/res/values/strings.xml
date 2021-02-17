@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppLiverpool</string>
+
+    <!-- Products -->
+    <string name="label_hint_search">Buscar en Liverpool</string>
+    <string name="label_without_results">¡Ops! No se encontraron resultados.</string>
+</resources>
